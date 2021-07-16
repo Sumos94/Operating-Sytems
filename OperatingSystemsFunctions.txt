@@ -1,4 +1,9 @@
-1.	The Android operating system is Linux-based and is primarily designed for touch screens and mobile devices. 
+The Android operating system is Linux-based and is primarily designed for touch screens and mobile devices. 
 It is one of the most widely used operating systems and it can support a large number of applications on smartphones.
 It also uses an open source which means it is free and just about anyone can use it. This operating system is chosen
 by many because its affordability, the convenience of customizing,  and the ability to be used on almost all cell phone services.
+
+Another mobile operating system is the IOS, which was developed by Apple Inc. and is only supported by apple products.
+The IOS system is a UNIX-based operating system. IOS is a closed source and is also known for being user friendly.
+Created with simple functions that allow its products to be easily navigated. Apple Inc. is also fully dedicated to always
+improving IOS so updates and improvements are constantly available.
