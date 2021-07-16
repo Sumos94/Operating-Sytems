@@ -7,3 +7,9 @@ Another mobile operating system is the IOS, which was developed by Apple Inc. an
 The IOS system is a UNIX-based operating system. IOS is a closed source and is also known for being user friendly.
 Created with simple functions that allow its products to be easily navigated. Apple Inc. is also fully dedicated to always
 improving IOS so updates and improvements are constantly available.
+
+The third operating system and one of the most used around the world is Windows. Windows OS, in addition to the other two
+stated above are all based on similar operating functions. Shared functions include security, providing users with the ability
+to create and store personal passwords. The give control over system performance by consistently updating systems for the
+better. They also all manage memory, processors, files, and other devices that are compatible with dedicated operating systems.
+Like the other two, the Windows OS is very user friendly and allows for easy multitasking. 
